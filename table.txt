@@ -1,0 +1,59 @@
+Registration
+	1.  First name
+	2.  Last name
+	3.  UserName
+	4.  Password
+	5.  PhoneNo
+	6.  Email
+	7.  Address
+	8.  Security_Question
+	9.  Security_Answer 
+Role
+	1. RoleId
+	2. Role Name
+LogIn
+	1.UserName
+	2.PassWord
+Packages
+	1. packageId
+	2. packagename
+	3. packageDescription
+	4. packagePrice
+Services
+	1. ServiceId
+	2. ServiceName
+	3. ServiceDescription
+ClothTypePriceList
+	1.Cloth Type
+	2.Service According Price
+Query
+	1.UserName
+	2.user_que
+	3.ans
+Appointment
+	1.AppintmentId
+	2.Appointment date
+	3.Appointment time
+Cart
+	1.cart_id
+	2.username
+	3.service_id
+	4.qty
+Order
+	1.order_id
+	2.customerID
+	3.order_date
+	4.Order_amt
+	5.order_date
+	6.Delivery_date
+	7.cloth_qty
+Invoice
+	1.InvoiceId
+	2.PaymentMode
+	3.CustomerId
+	4.subtotal
+	5.discount
+Rating_Feedback
+	1.UserName
+	2.RatingStar
+	3.FeedBack
